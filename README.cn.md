@@ -4,7 +4,7 @@
 
 Convert WeChat SILK to MP3/WAV/Opus/AAC and back. Fast single binary, no Python deps. x-cmd compatible.
 
-![silk](https://repo.x-cmd.io/silk.svg)
+![silk](https://repo.x-cmd.io/silk.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,20 @@ x install silk
 - **最新版本**: `v0.3.0` (2026-06-25)
 - **最近提交**: 2026-07-19
 - **Release 含资产**: 9 个
-- **发布时间**: 2026-06-25T08:04:52Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [SHA256SUMS](https://github.com/ljh-sh/silk/releases/download/v0.3.0/SHA256SUMS) | 426 B | `other` |
+| [silk-v0.3.0-aarch64-apple-darwin.tar.xz](https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-aarch64-apple-darwin.tar.xz) | 388.6 KiB | `native/darwin/arm64` |
+| [silk-v0.3.0-aarch64-apple-darwin.tar.xz.sig](https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-aarch64-apple-darwin.tar.xz.sig) | 96 B | `native/darwin/arm64` |
+| [silk-v0.3.0-x86_64-apple-darwin.tar.xz](https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-x86_64-apple-darwin.tar.xz) | 431.0 KiB | `native/darwin/x64` |
+| [silk-v0.3.0-x86_64-apple-darwin.tar.xz.sig](https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-x86_64-apple-darwin.tar.xz.sig) | 96 B | `native/darwin/x64` |
+| [silk-v0.3.0-x86_64-pc-windows-msvc.zip](https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-x86_64-pc-windows-msvc.zip) | 452.9 KiB | `native/win/x64` |
+| [silk-v0.3.0-x86_64-pc-windows-msvc.zip.sig](https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-x86_64-pc-windows-msvc.zip.sig) | 96 B | `native/win/x64` |
+| [silk-v0.3.0-x86_64-unknown-linux-gnu.tar.xz](https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-x86_64-unknown-linux-gnu.tar.xz) | 458.3 KiB | `native/linux/x64/glibc` |
+| [silk-v0.3.0-x86_64-unknown-linux-gnu.tar.xz.sig](https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-x86_64-unknown-linux-gnu.tar.xz.sig) | 96 B | `native/linux/x64/glibc` |
 
 ## 流行度
 
@@ -72,4 +85,4 @@ silk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:28:25Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:09:33Z._

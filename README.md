@@ -23,7 +23,20 @@ x install silk
 - **Latest**: `v0.3.0` (2026-06-25)
 - **Last commit**: 2026-07-19
 - **Assets in release**: 9
-- **Published**: 2026-06-25T08:04:52Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [SHA256SUMS](https://github.com/ljh-sh/silk/releases/download/v0.3.0/SHA256SUMS) | 426 B | `other` |
+| [silk-v0.3.0-aarch64-apple-darwin.tar.xz](https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-aarch64-apple-darwin.tar.xz) | 388.6 KiB | `native/darwin/arm64` |
+| [silk-v0.3.0-aarch64-apple-darwin.tar.xz.sig](https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-aarch64-apple-darwin.tar.xz.sig) | 96 B | `native/darwin/arm64` |
+| [silk-v0.3.0-x86_64-apple-darwin.tar.xz](https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-x86_64-apple-darwin.tar.xz) | 431.0 KiB | `native/darwin/x64` |
+| [silk-v0.3.0-x86_64-apple-darwin.tar.xz.sig](https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-x86_64-apple-darwin.tar.xz.sig) | 96 B | `native/darwin/x64` |
+| [silk-v0.3.0-x86_64-pc-windows-msvc.zip](https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-x86_64-pc-windows-msvc.zip) | 452.9 KiB | `native/win/x64` |
+| [silk-v0.3.0-x86_64-pc-windows-msvc.zip.sig](https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-x86_64-pc-windows-msvc.zip.sig) | 96 B | `native/win/x64` |
+| [silk-v0.3.0-x86_64-unknown-linux-gnu.tar.xz](https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-x86_64-unknown-linux-gnu.tar.xz) | 458.3 KiB | `native/linux/x64/glibc` |
+| [silk-v0.3.0-x86_64-unknown-linux-gnu.tar.xz.sig](https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-x86_64-unknown-linux-gnu.tar.xz.sig) | 96 B | `native/linux/x64/glibc` |
 
 ## Popularity
 
@@ -68,8 +81,8 @@ Lowest-scoring checks:
 Install metadata for silk lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `silk` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/silk.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/silk.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:28:25Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:09:32Z._
