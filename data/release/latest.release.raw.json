@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 463811,
       "digest": "sha256:d25c266d9f34675ea8aa3ec78e640a9f455b4db94d95ab0ca7a6d1ff6e614368",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-06-25T08:04:43Z",
       "updated_at": "2026-06-25T08:04:43Z",
       "browser_download_url": "https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-x86_64-pc-windows-msvc.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 469280,
       "digest": "sha256:10e5ffd03dec7e2475be11c053ed293c2c11f808b4bcba4e36eaa042725c5de5",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-06-25T08:04:43Z",
       "updated_at": "2026-06-25T08:04:43Z",
       "browser_download_url": "https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-x86_64-unknown-linux-gnu.tar.xz"
