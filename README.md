@@ -4,7 +4,7 @@
 
 Convert WeChat SILK to MP3/WAV/Opus/AAC and back. Fast single binary, no Python deps. x-cmd compatible.
 
-[![x-cmd/install — silk Code Quality Monitoring Repo Card](https://repo.x-cmd.io/silk.svg)](https://x-cmd.com/install/silk)
+[![x-cmd/install — silk Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/silk.svg)](https://x-cmd.com/install/silk)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 2 | 24 | 8 | 0 | 0 | 8 |
-| last180d | 2026-03-26 | 2 | 24 | 8 | 0 | 0 | 34 |
-| 360d | 2025-09-27 | 2 | 24 | 8 | 0 | 0 | 34 |
-| last720d | 2024-10-02 | 2 | 24 | 8 | 0 | 0 | 34 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 2 | 3 | 8 | 0 | 0 | 8 |
+| last180d | 2026-03-27 | 2 | 24 | 8 | 0 | 0 | 34 |
+| 360d | 2025-09-28 | 2 | 24 | 8 | 0 | 0 | 34 |
+| last720d | 2024-10-03 | 2 | 24 | 8 | 0 | 0 | 34 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for silk lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:48:19Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:42:19Z._
