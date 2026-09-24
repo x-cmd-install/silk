@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 469280,
       "digest": "sha256:10e5ffd03dec7e2475be11c053ed293c2c11f808b4bcba4e36eaa042725c5de5",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-06-25T08:04:43Z",
       "updated_at": "2026-06-25T08:04:43Z",
       "browser_download_url": "https://github.com/ljh-sh/silk/releases/download/v0.3.0/silk-v0.3.0-x86_64-unknown-linux-gnu.tar.xz"
