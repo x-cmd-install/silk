@@ -26,13 +26,13 @@ Total: **480** lines of code across **23** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.2 / 10**
+Overall score: **7.6 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — project was created within the last 90 days. Please review its contents carefully
 - **Code-Review** (1/10) — Found 4/23 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-31 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-07-01 | 0 | 3 | 8 | 0 | 0 | 8 |
-| last180d | 2026-04-02 | 2 | 24 | 8 | 0 | 0 | 34 |
-| 360d | 2025-10-04 | 2 | 24 | 8 | 0 | 0 | 34 |
-| last720d | 2024-10-09 | 2 | 24 | 8 | 0 | 0 | 34 |
+| 30d | 2026-08-31 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-01 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-07-02 | 0 | 1 | 8 | 0 | 0 | 8 |
+| last180d | 2026-04-03 | 2 | 24 | 8 | 0 | 0 | 34 |
+| 360d | 2025-10-05 | 2 | 24 | 8 | 0 | 0 | 34 |
+| last720d | 2024-10-10 | 2 | 24 | 8 | 0 | 0 | 34 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for silk lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:19:54Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:11:33Z._
